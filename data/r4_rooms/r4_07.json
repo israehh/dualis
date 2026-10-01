@@ -1,0 +1,12 @@
+{
+  "id": "R4_07",
+  "nombre": "El Eco Que No Se Toca",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "oscillating", "params": {"ax": 320.0, "ay": 190.0, "amplitude": 130.0, "period": 2.5}}],
+  "transformables": [],
+  "exit": {"rect": [80, 240, 100, 80]},
+  "enlaces": ["R4_06", "R4_08"],
+  "ideas": ["eco-intacto"],
+  "proposito": "R4: el ritmo fuerte es señuelo; cruzar con el mundo sin intervenir el resonador.",
+  "dificultad": "media"
+}

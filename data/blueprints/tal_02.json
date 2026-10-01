@@ -1,0 +1,12 @@
+{
+  "id": "TAL_02",
+  "nombre": "Doble Ritmo",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "timed", "params": {"x": 150.0, "y": 260.0, "visible_for": 1.2, "hidden_for": 1.8}}],
+  "transformables": [],
+  "exit": {"rect": [460, 60, 100, 80]},
+  "enlaces": ["TAL_01", "TAL_03"],
+  "ideas": ["ritmo"],
+  "proposito": "Leer una cadencia completa antes de actuar, sin prisa.",
+  "dificultad": "corta"
+}

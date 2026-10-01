@@ -1,0 +1,12 @@
+{
+  "id": "R4_04",
+  "nombre": "El Espejo Mentiroso",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [480, 200, 100, 80]},
+  "enlaces": ["R4_03"],
+  "ideas": ["romper-reflejo"],
+  "proposito": "R4: romper el reflejo para entrar; transformar la fuente y cruzar.",
+  "dificultad": "corta"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "R1_VESTIBULO",
+  "nombre": "El Vestíbulo",
+  "funcion": "Tutorial orgánico: moverse, observar, montar y transformar sin texto.",
+  "paleta": "gris cálido + ámbar",
+  "material": "mármol agrietado, luces parpadeantes, puertas cerradas pero no bloqueadas",
+  "momento": "VEST_13 rompe el ritmo pausado con batidor y tablero a la vez",
+  "rooms": [
+    "VEST_01",
+    "VEST_02",
+    "VEST_03",
+    "VEST_04",
+    "VEST_05",
+    "VEST_06",
+    "VEST_07",
+    "VEST_08",
+    "VEST_09",
+    "VEST_10",
+    "VEST_11",
+    "VEST_12",
+    "VEST_13",
+    "VEST_14"
+  ]
+}

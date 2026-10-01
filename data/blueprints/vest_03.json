@@ -1,0 +1,12 @@
+{
+  "id": "VEST_03",
+  "nombre": "Peldaño de Mármol",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 230.0}}],
+  "exit": {"rect": [500, 60, 100, 80]},
+  "enlaces": ["VEST_02", "VEST_04"],
+  "ideas": ["altura"],
+  "proposito": "Enseñar Montar: la salida alta solo cuenta con UNO sobre DOS.",
+  "dificultad": "corta"
+}

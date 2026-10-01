@@ -1,0 +1,12 @@
+{
+  "id": "R5_04",
+  "nombre": "Juntos a Distancia",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 300.0, "y": 120.0, "vx": 100.0}}],
+  "transformables": [],
+  "exit": {"rect": [140, 200, 360, 80]},
+  "enlaces": ["R5_03"],
+  "ideas": ["juntos-a-distancia"],
+  "proposito": "R5: llegar a la vez a distancia; la salida ancha exige el vinculo en TENSION con el duo repartido.",
+  "dificultad": "media"
+}

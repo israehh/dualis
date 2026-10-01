@@ -1,0 +1,12 @@
+{
+  "id": "R5_07",
+  "nombre": "Ninguno Solo",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "moving", "params": {"x": 260.0, "y": 140.0, "vx": 150.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 300.0, "y": 210.0}}],
+  "exit": {"rect": [60, 220, 100, 80]},
+  "enlaces": ["R5_06", "R5_08"],
+  "ideas": ["ninguno-solo"],
+  "proposito": "R5: la mitad OBSERVE pertenece a UNO y la mitad TRANSFORM a DOS; transformar antes de observar es ROOM_DENIED.",
+  "dificultad": "media"
+}

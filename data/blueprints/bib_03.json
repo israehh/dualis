@@ -1,0 +1,12 @@
+{
+  "id": "BIB_03",
+  "nombre": "Plataforma de Montaje",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "platform", "params": {"x": 200.0, "y": 120.0}}],
+  "exit": {"rect": [440, 220, 120, 80]},
+  "enlaces": ["BIB_02", "BIB_04"],
+  "ideas": ["herramienta"],
+  "proposito": "Transformar como herramienta: la plataforma existe para montarse sobre ella.",
+  "dificultad": "corta"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ZONE_05",
+  "nombre": "Examen del Umbral",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "timed", "params": {"x": 200.0, "y": 140.0, "visible_for": 1.2, "hidden_for": 1.2}}],
+  "transformables": [{"kind": "platform", "params": {"x": 420.0, "y": 220.0}}],
+  "exit": {"rect": [270, 40, 100, 70]},
+  "enlaces": ["ZONE_04", "ZONE_01"],
+  "ideas": ["examen"]
+}

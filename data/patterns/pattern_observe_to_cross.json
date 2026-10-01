@@ -1,0 +1,7 @@
+{
+  "id": "PATTERN_OBSERVE_TO_CROSS",
+  "intention": "Observación útil: congelar revela el intervalo, la sombra o el paso.",
+  "mechanics": ["observe", "moving", "timed"],
+  "difficulty": "corta",
+  "combinations": ["PATTERN_TIMED_WINDOW", "PATTERN_TRANSFORM_TO_REACH"]
+}

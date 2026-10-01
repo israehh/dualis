@@ -1,0 +1,12 @@
+{
+  "id": "R4_EXAM",
+  "nombre": "El Examen del Jardín",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "moving", "params": {"x": 320.0, "y": 120.0, "vx": 110.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [140, 200, 360, 80]},
+  "enlaces": ["R4_08"],
+  "ideas": ["examen-jardin"],
+  "proposito": "R4: examen sin ideas nuevas; congelar la sombra, transformar su fuente, montar para completar y separar a TENSION para abrir.",
+  "dificultad": "media"
+}

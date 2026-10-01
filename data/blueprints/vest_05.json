@@ -1,0 +1,12 @@
+{
+  "id": "VEST_05",
+  "nombre": "Tramo Respirado",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 180.0}}],
+  "exit": {"rect": [500, 140, 100, 80]},
+  "enlaces": ["VEST_04", "VEST_06"],
+  "ideas": ["paso"],
+  "proposito": "Combinar observar y transformar: el tablero solo cede en quietud.",
+  "dificultad": "media"
+}

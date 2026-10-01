@@ -1,0 +1,12 @@
+{
+  "id": "LNK_01",
+  "nombre": "Umbral Cercano",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 140.0, "y": 200.0, "vx": 95.0}}],
+  "transformables": [],
+  "exit": {"rect": [270, 140, 100, 80]},
+  "enlaces": ["LNK_02"],
+  "ideas": ["link-connected"],
+  "proposito": "F23: la salida solo completa con el vinculo en CONNECTED; su geometria impide TENSION y LIMIT dentro de ella.",
+  "dificultad": "corta"
+}

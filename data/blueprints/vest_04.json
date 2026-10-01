@@ -1,0 +1,12 @@
+{
+  "id": "VEST_04",
+  "nombre": "Molde Vivo",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "platform", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [80, 240, 100, 80]},
+  "enlaces": ["VEST_03", "VEST_05"],
+  "ideas": ["forma"],
+  "proposito": "Enseñar Transformar: reinterpretar una vez crea el espacio que falta.",
+  "dificultad": "corta"
+}

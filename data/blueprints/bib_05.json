@@ -1,0 +1,12 @@
+{
+  "id": "BIB_05",
+  "nombre": "Tablero Lejano",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "moving", "params": {"x": 120.0, "y": 100.0, "vx": 100.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 520.0, "y": 240.0}}],
+  "exit": {"rect": [80, 40, 100, 70]},
+  "enlaces": ["BIB_04", "BIB_06"],
+  "ideas": ["distancia"],
+  "proposito": "Separar observable y transformable: la quietud se gasta caminando.",
+  "dificultad": "media"
+}

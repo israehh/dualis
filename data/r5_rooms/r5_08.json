@@ -1,0 +1,12 @@
+{
+  "id": "R5_08",
+  "nombre": "Orden de Reconocimiento",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 230.0}}],
+  "exit": {"rect": [220, 60, 100, 80]},
+  "enlaces": ["R5_07"],
+  "ideas": ["orden-de-reconocimiento"],
+  "proposito": "R5: cierre amable que ordena lo aprendido; observar primero, montar despues, cruzar.",
+  "dificultad": "corta"
+}

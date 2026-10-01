@@ -1,0 +1,10 @@
+{
+  "id": "ROOM_05",
+  "nombre": "Examen del Umbral",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "oscillating", "params": {"ax": 320.0, "ay": 190.0, "amplitude": 130.0, "period": 2.5}}],
+  "transformables": [{"kind": "platform", "params": {"x": 420.0, "y": 230.0}}],
+  "exit": {"rect": [270, 40, 100, 70]},
+  "enlaces": ["ROOM_04"],
+  "ideas": ["examen"]
+}

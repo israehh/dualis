@@ -1,0 +1,10 @@
+{
+  "id": "ROOM_02",
+  "nombre": "Umbral del Hombro",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 230.0}}],
+  "exit": {"rect": [500, 60, 100, 80]},
+  "enlaces": ["ROOM_01", "ROOM_03"],
+  "ideas": ["hombro"]
+}

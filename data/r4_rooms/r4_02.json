@@ -1,0 +1,12 @@
+{
+  "id": "R4_02",
+  "nombre": "Dosel de Paso",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 230.0}}],
+  "exit": {"rect": [500, 60, 100, 80]},
+  "enlaces": ["R4_01", "R4_03"],
+  "ideas": ["techo-suelo"],
+  "proposito": "R4: el techo es el suelo; lo que parecía altura es planicie y se cruza montados.",
+  "dificultad": "corta"
+}

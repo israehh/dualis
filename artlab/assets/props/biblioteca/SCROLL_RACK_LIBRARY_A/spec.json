@@ -1,0 +1,13 @@
+{
+  "id": "SCROLL_RACK_LIBRARY_A",
+  "category": "prop",
+  "region": "biblioteca",
+  "material": "wood",
+  "footprint": [
+    1,
+    1
+  ],
+  "height": 1,
+  "anchor": "bottom_center",
+  "style": "dualis_v1"
+}

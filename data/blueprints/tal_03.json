@@ -1,0 +1,12 @@
+{
+  "id": "TAL_03",
+  "nombre": "Cota de Tensión",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 500.0, "y": 120.0}}],
+  "exit": {"rect": [140, 60, 120, 120]},
+  "enlaces": ["TAL_02", "TAL_04"],
+  "ideas": ["cota"],
+  "proposito": "Montar y leer el vínculo: la salida amplia admite al dúo estirado.",
+  "dificultad": "media"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "R4_05",
+  "nombre": "El Patrón No Mirado",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 320.0, "y": 120.0, "vx": 110.0}}],
+  "transformables": [],
+  "exit": {"rect": [140, 200, 360, 80]},
+  "enlaces": ["R4_04", "R4_06"],
+  "ideas": ["patron-no-mirado"],
+  "proposito": "R4: el suelo se revela mirando a otro lado; la salida ancha exige el vínculo en TENSION.",
+  "dificultad": "media"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "VEST_01",
+  "nombre": "Umbral",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 140.0, "y": 200.0, "vx": 95.0}}],
+  "transformables": [],
+  "exit": {"rect": [500, 240, 100, 80]},
+  "enlaces": ["ROOM_SLICE", "VEST_02"],
+  "ideas": ["mirar"],
+  "proposito": "Enseñar Observar: un batidor legible que solo se cruza tras congelarlo.",
+  "dificultad": "corta"
+}

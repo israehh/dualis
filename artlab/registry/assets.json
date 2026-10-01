@@ -1,0 +1,119 @@
+{
+  "ARCH_VESTIBULE_A": {
+    "id": "ARCH_VESTIBULE_A",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "alabaster",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "BENCH_VESTIBULE_A": {
+    "id": "BENCH_VESTIBULE_A",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "wood",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "COLUMN_VESTIBULE_A": {
+    "id": "COLUMN_VESTIBULE_A",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "alabaster",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "COLUMN_VESTIBULE_B": {
+    "id": "COLUMN_VESTIBULE_B",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "alabaster",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "PEDESTAL_VESTIBULE_A": {
+    "id": "PEDESTAL_VESTIBULE_A",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "alabaster",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "STATUE_VESTIBULE_A": {
+    "id": "STATUE_VESTIBULE_A",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "alabaster",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "TORCH_VESTIBULE_A": {
+    "id": "TORCH_VESTIBULE_A",
+    "category": "prop",
+    "region": "vestibulo",
+    "material": "brass",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "BOOKCASE_LIBRARY_A": {
+    "id": "BOOKCASE_LIBRARY_A",
+    "category": "prop",
+    "region": "biblioteca",
+    "material": "wood",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  },
+  "TABLE_LIBRARY_A": {
+    "id": "TABLE_LIBRARY_A",
+    "category": "prop",
+    "region": "biblioteca",
+    "material": "wood",
+    "footprint": [
+      1,
+      1
+    ],
+    "height": 1,
+    "anchor": "bottom_center",
+    "style": "dualis_v1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "R5_06",
+  "nombre": "El Relevo",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "timed", "params": {"x": 320.0, "y": 180.0, "visible_for": 1.5, "hidden_for": 1.5}}],
+  "transformables": [],
+  "exit": {"rect": [380, 60, 100, 80]},
+  "enlaces": ["R5_05", "R5_07"],
+  "ideas": ["el-relevo"],
+  "proposito": "R5: turnarse sin soltarse; cruzar por turnos dentro de la ventana avisada con el vinculo intacto.",
+  "dificultad": "corta"
+}

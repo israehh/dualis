@@ -1,0 +1,12 @@
+{
+  "id": "LNK_02",
+  "nombre": "Tension Justa",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 320.0, "y": 120.0, "vx": 110.0}}],
+  "transformables": [],
+  "exit": {"rect": [150, 140, 340, 80]},
+  "enlaces": ["LNK_01", "LNK_03"],
+  "ideas": ["link-tension"],
+  "proposito": "F23: salida ancha que contiene al duo separado; solo completa con el vinculo en TENSION.",
+  "dificultad": "corta"
+}

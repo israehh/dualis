@@ -1,0 +1,12 @@
+{
+  "id": "VEST_14",
+  "nombre": "Puerta del Recuerdo",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "oscillating", "params": {"ax": 320.0, "ay": 190.0, "amplitude": 130.0, "period": 2.5}}],
+  "transformables": [{"kind": "platform", "params": {"x": 420.0, "y": 230.0}}],
+  "exit": {"rect": [270, 40, 100, 70]},
+  "enlaces": ["VEST_13", "BIB_01"],
+  "ideas": ["examen"],
+  "proposito": "Examen regional: observar, transformar y montar sin nada nuevo.",
+  "dificultad": "media"
+}

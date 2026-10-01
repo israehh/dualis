@@ -1,0 +1,12 @@
+{
+  "id": "BIB_01",
+  "nombre": "La Negativa",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "moving", "params": {"x": 200.0, "y": 120.0, "vx": 170.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [420, 40, 110, 70]},
+  "enlaces": ["VEST_14", "BIB_02"],
+  "ideas": ["negativa"],
+  "proposito": "Enseñar el orden con el fracaso: E sin quietud recibe ROOM_DENIED.",
+  "dificultad": "corta"
+}

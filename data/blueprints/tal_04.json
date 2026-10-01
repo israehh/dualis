@@ -1,0 +1,12 @@
+{
+  "id": "TAL_04",
+  "nombre": "El Viaje Largo",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "platform", "params": {"x": 120.0, "y": 100.0}}],
+  "exit": {"rect": [440, 220, 120, 80]},
+  "enlaces": ["TAL_03", "TAL_05"],
+  "ideas": ["viaje"],
+  "proposito": "El coste es posicional: viajar con el vínculo tenso, transformar y volver.",
+  "dificultad": "media"
+}

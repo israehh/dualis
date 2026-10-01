@@ -1,0 +1,19 @@
+{
+  "id": "R3_TALLER",
+  "nombre": "El Taller de los Ecos",
+  "funcion": "Decisiones, orden, preparación, distancia y síntesis sin verbos nuevos.",
+  "paleta": "óxido + cobre + chispa",
+  "material": "martillo eterno, cintas en bucle, prensas que respiran ritmo",
+  "momento": "TAL_07 rompe el orden único: montar primero también resuelve",
+  "rooms": [
+    "TAL_01",
+    "TAL_02",
+    "TAL_03",
+    "TAL_04",
+    "TAL_05",
+    "TAL_06",
+    "TAL_07",
+    "TAL_08",
+    "TAL_09"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "VEST_02",
+  "nombre": "Pulso Ámbar",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "timed", "params": {"x": 320.0, "y": 180.0, "visible_for": 1.5, "hidden_for": 1.5}}],
+  "transformables": [],
+  "exit": {"rect": [80, 60, 100, 80]},
+  "enlaces": ["VEST_01", "VEST_03"],
+  "ideas": ["ventana"],
+  "proposito": "Enseñar ventanas temporales: leer el parpadeo antes de cruzar.",
+  "dificultad": "corta"
+}

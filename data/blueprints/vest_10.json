@@ -1,0 +1,12 @@
+{
+  "id": "VEST_10",
+  "nombre": "Ecos Cruzados",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "timed", "params": {"x": 420.0, "y": 180.0, "visible_for": 1.2, "hidden_for": 1.2}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 200.0, "y": 180.0}}],
+  "exit": {"rect": [500, 240, 100, 80]},
+  "enlaces": ["VEST_09", "VEST_11"],
+  "ideas": ["conjuncion"],
+  "proposito": "Combinar ventana y tablero: congelar el parpadeo y luego tender el paso.",
+  "dificultad": "media"
+}

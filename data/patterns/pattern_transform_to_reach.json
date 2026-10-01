@@ -1,0 +1,7 @@
+{
+  "id": "PATTERN_TRANSFORM_TO_REACH",
+  "intention": "Transformación significativa: reinterpretar una vez crea el espacio que falta.",
+  "mechanics": ["transform", "step", "bridge", "platform"],
+  "difficulty": "media",
+  "combinations": ["PATTERN_HEIGHT", "PATTERN_SHARED_PASSAGE"]
+}

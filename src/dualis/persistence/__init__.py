@@ -1,0 +1,1 @@
+"""DUALIS F0 — marcador de ámbito futuro. Sin memoria todavía."""

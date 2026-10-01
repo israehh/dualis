@@ -1,0 +1,12 @@
+{
+  "id": "BIB_07",
+  "nombre": "Sintaxis",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "moving", "params": {"x": 150.0, "y": 150.0, "vx": 120.0}}],
+  "transformables": [{"kind": "step", "params": {"x": 450.0, "y": 200.0}}],
+  "exit": {"rect": [270, 200, 100, 80]},
+  "enlaces": ["BIB_06", "BIB_08"],
+  "ideas": ["sintaxis"],
+  "proposito": "Componer H3+T3+S4: quietud, forma y montaje en una sola frase.",
+  "dificultad": "media"
+}

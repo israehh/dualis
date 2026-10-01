@@ -1,0 +1,12 @@
+{
+  "id": "VEST_06",
+  "nombre": "Resonancia",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "oscillating", "params": {"ax": 320.0, "ay": 200.0, "amplitude": 140.0, "period": 2.5}}],
+  "transformables": [],
+  "exit": {"rect": [80, 180, 100, 80]},
+  "enlaces": ["VEST_05", "VEST_07"],
+  "ideas": ["cadencia"],
+  "proposito": "Variar el ritmo: una cadencia distinta que exige releer antes de cruzar.",
+  "dificultad": "media"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "PATTERN_TIMED_WINDOW",
+  "intention": "Ventana temporal: un ritmo visible que solo se cruza leyéndolo antes.",
+  "mechanics": ["moving", "oscillating", "timed", "observe"],
+  "difficulty": "media",
+  "combinations": ["PATTERN_OBSERVE_TO_CROSS", "PATTERN_HEIGHT"]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "BIB_06",
+  "nombre": "Contra el Deshielo",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "timed", "params": {"x": 320.0, "y": 150.0, "visible_for": 0.8, "hidden_for": 1.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 240.0}}],
+  "exit": {"rect": [60, 240, 100, 80]},
+  "enlaces": ["BIB_05", "BIB_07"],
+  "ideas": ["tiempo"],
+  "proposito": "El tiempo importa sin castigo: la baliza breve premia decidir pronto.",
+  "dificultad": "media"
+}

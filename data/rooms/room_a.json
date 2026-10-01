@@ -1,0 +1,6 @@
+{
+  "id": "ROOM_A",
+  "nombre": "Sala Alba",
+  "descripcion": "Habitación de prueba: umbral claro con eco hacia ROOM_B.",
+  "enlaces": ["ROOM_B"]
+}

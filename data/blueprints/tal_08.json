@@ -1,0 +1,12 @@
+{
+  "id": "TAL_08",
+  "nombre": "Síntesis del Taller",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "oscillating", "params": {"ax": 450.0, "ay": 120.0, "amplitude": 90.0, "period": 1.6}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 150.0, "y": 250.0}}],
+  "exit": {"rect": [480, 200, 110, 70]},
+  "enlaces": ["TAL_07", "TAL_09"],
+  "ideas": ["sintesis"],
+  "proposito": "Ensayo general: quietud, forma y montaje con geometría generosa.",
+  "dificultad": "media"
+}

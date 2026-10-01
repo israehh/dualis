@@ -1,0 +1,12 @@
+{
+  "id": "VEST_09",
+  "nombre": "Arco Quebrado",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 220.0}}],
+  "exit": {"rect": [80, 60, 100, 80]},
+  "enlaces": ["VEST_08", "VEST_10"],
+  "ideas": ["tramo"],
+  "proposito": "Variar Transformar: el tablero como paso largo hacia la salida.",
+  "dificultad": "media"
+}

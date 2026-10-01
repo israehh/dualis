@@ -1,0 +1,12 @@
+{
+  "id": "VEST_08",
+  "nombre": "Contrapeso",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 200.0, "y": 240.0}}],
+  "exit": {"rect": [480, 200, 100, 80]},
+  "enlaces": ["VEST_07", "VEST_09"],
+  "ideas": ["apoyo"],
+  "proposito": "Reforzar Montar con peldaño desplazado y salida lateral.",
+  "dificultad": "media"
+}

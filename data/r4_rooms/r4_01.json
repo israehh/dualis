@@ -1,0 +1,12 @@
+{
+  "id": "R4_01",
+  "nombre": "El Umbral al Revés",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 140.0, "y": 200.0, "vx": 95.0}}],
+  "transformables": [],
+  "exit": {"rect": [80, 60, 100, 80]},
+  "enlaces": ["TAL_09", "R4_02"],
+  "ideas": ["direccion-invertida"],
+  "proposito": "R4: la dirección indicada miente; congelar el batidor y dar el rodeo largo para llegar.",
+  "dificultad": "corta"
+}

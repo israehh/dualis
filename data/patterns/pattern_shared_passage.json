@@ -1,0 +1,7 @@
+{
+  "id": "PATTERN_SHARED_PASSAGE",
+  "intention": "Paso compartido: un vano que solo existe como paso si ambos sostienen juntos.",
+  "mechanics": ["bridge", "mount"],
+  "difficulty": "media",
+  "combinations": ["PATTERN_HEIGHT", "PATTERN_OBSERVE_TO_CROSS"]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "VEST_12",
+  "nombre": "Peso de la Puerta",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 420.0, "y": 140.0}}],
+  "exit": {"rect": [80, 100, 100, 80]},
+  "enlaces": ["VEST_11", "VEST_13"],
+  "ideas": ["umbral"],
+  "proposito": "Cerrar el arco de altura antes del examen: montar como reflejo.",
+  "dificultad": "media"
+}

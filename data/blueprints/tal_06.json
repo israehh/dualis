@@ -1,0 +1,12 @@
+{
+  "id": "TAL_06",
+  "nombre": "Ventana de Dos Segundos",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "timed", "params": {"x": 480.0, "y": 110.0, "visible_for": 2.0, "hidden_for": 0.6}}],
+  "transformables": [],
+  "exit": {"rect": [450, 230, 110, 70]},
+  "enlaces": ["TAL_05", "TAL_07"],
+  "ideas": ["ventana"],
+  "proposito": "Estar colocado antes de pulsar Q: la quietud sirve si se prepara.",
+  "dificultad": "media"
+}

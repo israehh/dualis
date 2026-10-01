@@ -1,0 +1,13 @@
+{
+  "id": "TORCH_VESTIBULE_A",
+  "category": "prop",
+  "region": "vestibulo",
+  "material": "brass",
+  "footprint": [
+    1,
+    1
+  ],
+  "height": 1,
+  "anchor": "bottom_center",
+  "style": "dualis_v1"
+}

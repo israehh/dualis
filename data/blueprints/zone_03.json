@@ -1,0 +1,10 @@
+{
+  "id": "ZONE_03",
+  "nombre": "Umbral del Intervalo",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "oscillating", "params": {"ax": 320.0, "ay": 200.0, "amplitude": 140.0, "period": 2.5}}],
+  "transformables": [],
+  "exit": {"rect": [500, 60, 100, 80]},
+  "enlaces": ["ZONE_02", "ZONE_04"],
+  "ideas": ["cadencia"]
+}

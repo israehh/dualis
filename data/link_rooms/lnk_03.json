@@ -1,0 +1,12 @@
+{
+  "id": "LNK_03",
+  "nombre": "El Limite",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 420.0, "y": 140.0, "vx": 110.0}}],
+  "transformables": [],
+  "exit": {"rect": [80, 60, 100, 80]},
+  "enlaces": ["LNK_02", "LNK_04"],
+  "ideas": ["link-limit"],
+  "proposito": "F23: el vinculo en LIMIT rechaza la salida; solo se completa al volver a CONNECTED.",
+  "dificultad": "corta"
+}

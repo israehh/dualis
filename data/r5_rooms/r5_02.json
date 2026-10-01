@@ -1,0 +1,12 @@
+{
+  "id": "R5_02",
+  "nombre": "El Hombro Devuelto",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 230.0}}],
+  "exit": {"rect": [500, 220, 100, 80]},
+  "enlaces": ["R5_01", "R5_03"],
+  "ideas": ["el-sostenido-abre"],
+  "proposito": "R5: DOS carga pero es la llegada de UNO la que completa; cruzar montados, el sostenido abre.",
+  "dificultad": "corta"
+}

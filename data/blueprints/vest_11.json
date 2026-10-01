@@ -1,0 +1,12 @@
+{
+  "id": "VEST_11",
+  "nombre": "Galería Ámbar",
+  "pattern": "PATTERN_TIMED_WINDOW",
+  "observables": [{"kind": "timed", "params": {"x": 160.0, "y": 120.0, "visible_for": 1.0, "hidden_for": 2.0}}],
+  "transformables": [],
+  "exit": {"rect": [460, 220, 100, 80]},
+  "enlaces": ["VEST_10", "VEST_12"],
+  "ideas": ["paciencia"],
+  "proposito": "Exigir paciencia: ventana breve tras espera larga, sin reflejos.",
+  "dificultad": "media"
+}

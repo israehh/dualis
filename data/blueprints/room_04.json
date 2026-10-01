@@ -1,0 +1,10 @@
+{
+  "id": "ROOM_04",
+  "nombre": "Umbral del Paso",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "timed", "params": {"x": 320.0, "y": 180.0, "visible_for": 1.5, "hidden_for": 1.5}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 180.0}}],
+  "exit": {"rect": [500, 140, 100, 80]},
+  "enlaces": ["ROOM_03", "ROOM_05"],
+  "ideas": ["paso"]
+}

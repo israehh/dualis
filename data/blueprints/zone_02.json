@@ -1,0 +1,10 @@
+{
+  "id": "ZONE_02",
+  "nombre": "Umbral del Peldaño",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 240.0}}],
+  "exit": {"rect": [80, 60, 100, 80]},
+  "enlaces": ["ZONE_01", "ZONE_03"],
+  "ideas": ["altura"]
+}

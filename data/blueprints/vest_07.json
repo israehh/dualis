@@ -1,0 +1,12 @@
+{
+  "id": "VEST_07",
+  "nombre": "Doble Mirada",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 500.0, "y": 120.0, "vx": 130.0}}],
+  "transformables": [],
+  "exit": {"rect": [80, 240, 100, 80]},
+  "enlaces": ["VEST_06", "VEST_08"],
+  "ideas": ["releer"],
+  "proposito": "Dominar Observar con un batidor más rápido en posición invertida.",
+  "dificultad": "media"
+}

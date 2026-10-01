@@ -1,0 +1,10 @@
+{
+  "id": "ZONE_04",
+  "nombre": "Umbral del Puente",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 180.0}}],
+  "exit": {"rect": [80, 240, 100, 80]},
+  "enlaces": ["ZONE_03", "ZONE_05"],
+  "ideas": ["paso"]
+}

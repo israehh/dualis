@@ -1,0 +1,8 @@
+{
+  "actors": [
+    {"kind": "uno", "params": {"x": 120.0, "y": 280.0}},
+    {"kind": "dos", "params": {"x": 220.0, "y": 280.0}},
+    {"kind": "phenomenon", "params": {}},
+    {"kind": "testbox", "params": {}}
+  ]
+}

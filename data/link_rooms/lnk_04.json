@@ -1,0 +1,12 @@
+{
+  "id": "LNK_04",
+  "nombre": "Negativa Justa",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "moving", "params": {"x": 200.0, "y": 120.0, "vx": 170.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [460, 220, 100, 80]},
+  "enlaces": ["LNK_03"],
+  "ideas": ["link-denied"],
+  "proposito": "F23: transformar sin quietud emite ROOM_DENIED; la salida completa con el vinculo en CONNECTED.",
+  "dificultad": "corta"
+}

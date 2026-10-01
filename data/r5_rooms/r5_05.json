@@ -1,0 +1,12 @@
+{
+  "id": "R5_05",
+  "nombre": "El Que Mira Sostiene",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "bridge", "params": {"x": 300.0, "y": 210.0}}],
+  "exit": {"rect": [270, 140, 100, 80]},
+  "enlaces": ["R5_04", "R5_06"],
+  "ideas": ["el-que-mira-sostiene"],
+  "proposito": "R5: UNO aguarda en su marca mientras DOS renombra desde lejos; el que no actua es el que sostiene.",
+  "dificultad": "media"
+}

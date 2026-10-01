@@ -1,0 +1,12 @@
+{
+  "id": "R4_03",
+  "nombre": "La Sombra Equivocada",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 320.0, "y": 100.0, "vx": 80.0}}],
+  "transformables": [],
+  "exit": {"rect": [440, 220, 120, 80]},
+  "enlaces": ["R4_02", "R4_04"],
+  "ideas": ["sombra-manda"],
+  "proposito": "R4: la sombra manda sobre su objeto; congelar para leer el paso que revela.",
+  "dificultad": "media"
+}

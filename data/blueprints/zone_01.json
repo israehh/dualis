@@ -1,0 +1,10 @@
+{
+  "id": "ZONE_01",
+  "nombre": "Umbral del Ritmo",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 120.0, "y": 200.0, "vx": 100.0}}],
+  "transformables": [],
+  "exit": {"rect": [500, 240, 100, 80]},
+  "enlaces": ["ROOM_SLICE", "ZONE_02"],
+  "ideas": ["ritmo"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ROOM_OBSERVE",
+  "nombre": "Sala Lectura",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 100.0, "y": 220.0, "vx": 110.0}}],
+  "transformables": [],
+  "exit": {"rect": [500, 220, 100, 80]},
+  "enlaces": ["ROOM_SLICE"],
+  "ideas": ["lectura"]
+}

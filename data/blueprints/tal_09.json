@@ -1,0 +1,12 @@
+{
+  "id": "TAL_09",
+  "nombre": "Examen del Taller",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "moving", "params": {"x": 320.0, "y": 90.0, "vx": 140.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 250.0}}],
+  "exit": {"rect": [60, 60, 110, 90]},
+  "enlaces": ["TAL_08"],
+  "ideas": ["examen"],
+  "proposito": "Examen: observed, transformed y mounted verificados sin nada nuevo.",
+  "dificultad": "media"
+}

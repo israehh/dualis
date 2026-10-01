@@ -1,0 +1,6 @@
+{
+  "id": "ROOM_SLICE",
+  "nombre": "Corte Primero",
+  "descripcion": "Única habitación del slice: salida al norte tras el vano, batidor al centro, caja al fondo.",
+  "enlaces": ["ROOM_A"]
+}

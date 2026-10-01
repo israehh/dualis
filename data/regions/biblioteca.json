@@ -1,0 +1,18 @@
+{
+  "id": "R2_BIBLIOTECA",
+  "nombre": "Biblioteca",
+  "funcion": "Explorar posibilidades del lenguaje: variaciones funcionales sin verbos nuevos.",
+  "paleta": "verde tinta + papel",
+  "material": "estanterías-islas, libros flotantes, silencio de papel",
+  "momento": "BIB_01 rompe la expectativa con ROOM_DENIED como herramienta pedagógica",
+  "rooms": [
+    "BIB_01",
+    "BIB_02",
+    "BIB_03",
+    "BIB_04",
+    "BIB_05",
+    "BIB_06",
+    "BIB_07",
+    "BIB_08"
+  ]
+}

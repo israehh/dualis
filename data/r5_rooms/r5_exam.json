@@ -1,0 +1,12 @@
+{
+  "id": "R5_EXAM",
+  "nombre": "El Nombre del Dúo",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "moving", "params": {"x": 300.0, "y": 140.0, "vx": 100.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [140, 200, 360, 80]},
+  "enlaces": ["R5_08"],
+  "ideas": ["examen-torre"],
+  "proposito": "R5: examen sin ideas nuevas; UNO observa, DOS renombra, el duo monta para completar y separa a TENSION para abrir.",
+  "dificultad": "media"
+}

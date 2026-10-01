@@ -1,0 +1,12 @@
+{
+  "id": "BIB_04",
+  "nombre": "Cruce Quieto",
+  "pattern": "PATTERN_HEIGHT",
+  "observables": [{"kind": "moving", "params": {"x": 320.0, "y": 100.0, "vx": 80.0}}],
+  "transformables": [{"kind": "step", "params": {"x": 320.0, "y": 240.0}}],
+  "exit": {"rect": [60, 60, 100, 80]},
+  "enlaces": ["BIB_03", "BIB_05"],
+  "ideas": ["quietud"],
+  "proposito": "La quietud como recurso: congelar el batidor antes de montar y cruzar.",
+  "dificultad": "media"
+}

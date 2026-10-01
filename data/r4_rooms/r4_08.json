@@ -1,0 +1,12 @@
+{
+  "id": "R4_08",
+  "nombre": "La Salida Detrás",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "moving", "params": {"x": 200.0, "y": 120.0, "vx": 170.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [60, 60, 100, 80]},
+  "enlaces": ["R4_07"],
+  "ideas": ["salida-detras"],
+  "proposito": "R4: la puerta estuvo visible desde la entrada; orden correcto y sostener juntos.",
+  "dificultad": "corta"
+}

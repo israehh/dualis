@@ -1,0 +1,12 @@
+{
+  "id": "BIB_08",
+  "nombre": "Examen de Biblioteca",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "oscillating", "params": {"ax": 200.0, "ay": 150.0, "amplitude": 100.0, "period": 2.0}}],
+  "transformables": [{"kind": "platform", "params": {"x": 430.0, "y": 160.0}}],
+  "exit": {"rect": [80, 250, 110, 70]},
+  "enlaces": ["BIB_07", "TAL_01"],
+  "ideas": ["examen"],
+  "proposito": "Examen: observed, transformed y mounted verificados sin nada nuevo.",
+  "dificultad": "media"
+}

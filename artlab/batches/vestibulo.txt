@@ -1,0 +1,9 @@
+# VESTIBULO
+
+COLUMN_VESTIBULE_A vestibulo prop alabaster
+COLUMN_VESTIBULE_B vestibulo prop alabaster
+ARCH_VESTIBULE_A vestibulo prop alabaster
+PEDESTAL_VESTIBULE_A vestibulo prop alabaster
+STATUE_VESTIBULE_A vestibulo prop alabaster
+BENCH_VESTIBULE_A vestibulo prop wood
+TORCH_VESTIBULE_A vestibulo prop brass

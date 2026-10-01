@@ -1,0 +1,12 @@
+{
+  "id": "VEST_13",
+  "nombre": "Antesala del Recuerdo",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "moving", "params": {"x": 120.0, "y": 260.0, "vx": 110.0}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [480, 40, 100, 70]},
+  "enlaces": ["VEST_12", "VEST_14"],
+  "ideas": ["sintesis"],
+  "proposito": "Sintetizar ritmo y tablero como ensayo general del examen.",
+  "dificultad": "media"
+}

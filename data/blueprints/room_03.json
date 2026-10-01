@@ -1,0 +1,10 @@
+{
+  "id": "ROOM_03",
+  "nombre": "Umbral de la Forma",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "platform", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [80, 240, 100, 80]},
+  "enlaces": ["ROOM_02", "ROOM_04"],
+  "ideas": ["forma"]
+}

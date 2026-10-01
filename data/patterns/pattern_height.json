@@ -1,0 +1,7 @@
+{
+  "id": "PATTERN_HEIGHT",
+  "intention": "Altura imposible: lo visible no se alcanza a pie y pide apoyo o montaje.",
+  "mechanics": ["mount", "step"],
+  "difficulty": "corta",
+  "combinations": ["PATTERN_TRANSFORM_TO_REACH", "PATTERN_TIMED_WINDOW"]
+}

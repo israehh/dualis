@@ -1,0 +1,12 @@
+{
+  "id": "R5_01",
+  "nombre": "El Umbral Que Mira",
+  "pattern": "PATTERN_OBSERVE_TO_CROSS",
+  "observables": [{"kind": "moving", "params": {"x": 200.0, "y": 160.0, "vx": 95.0}}],
+  "transformables": [],
+  "exit": {"rect": [60, 140, 100, 80]},
+  "enlaces": ["R4_EXAM", "R5_02"],
+  "ideas": ["ser-reconocido"],
+  "proposito": "R5: la puerta no pide prisa, pide detencion; congelar el batidor y plantarse el duo para ser reconocido.",
+  "dificultad": "corta"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "TAL_05",
+  "nombre": "El Tablero Distante",
+  "pattern": "PATTERN_SHARED_PASSAGE",
+  "observables": [{"kind": "oscillating", "params": {"ax": 140.0, "ay": 260.0, "amplitude": 90.0, "period": 1.8}}],
+  "transformables": [{"kind": "bridge", "params": {"x": 500.0, "y": 120.0}}],
+  "exit": {"rect": [90, 230, 110, 80]},
+  "enlaces": ["TAL_04", "TAL_06"],
+  "ideas": ["distancia"],
+  "proposito": "Separar observable y transformable: la quietud se gasta caminando.",
+  "dificultad": "media"
+}

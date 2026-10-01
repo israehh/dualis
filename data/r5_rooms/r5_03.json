@@ -1,0 +1,12 @@
+{
+  "id": "R5_03",
+  "nombre": "El Nombre Verdadero",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [],
+  "transformables": [{"kind": "bridge", "params": {"x": 320.0, "y": 200.0}}],
+  "exit": {"rect": [140, 60, 100, 80]},
+  "enlaces": ["R5_02", "R5_04"],
+  "ideas": ["el-nombre-verdadero"],
+  "proposito": "R5: el objeto no es obstaculo, es algo sin nombrar; transformarlo una vez y cruzar.",
+  "dificultad": "corta"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "TAL_07",
+  "nombre": "Orden Distinto",
+  "pattern": "PATTERN_TRANSFORM_TO_REACH",
+  "observables": [{"kind": "timed", "params": {"x": 400.0, "y": 120.0, "visible_for": 1.4, "hidden_for": 1.6}}],
+  "transformables": [{"kind": "step", "params": {"x": 150.0, "y": 240.0}}],
+  "exit": {"rect": [270, 200, 100, 80]},
+  "enlaces": ["TAL_06", "TAL_08"],
+  "ideas": ["orden"],
+  "proposito": "El mismo problema admite varios órdenes: montar primero también resuelve.",
+  "dificultad": "media"
+}
